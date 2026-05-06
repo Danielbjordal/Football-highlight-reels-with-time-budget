@@ -1,0 +1,4 @@
+shot_id,start_ms,end_ms,duration_ms,label,confidence,keep,selected_role,reason,class_score,position_score,duration_score,anchor_score
+0,0,13120,13120,main_camera_right,0.8524491190910339,1,anchor,selected as anchor,0.0,0.0,0.0,0.0
+1,13120,19680,6560,close_up_side_staff,0.6312802955508232,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+2,19680,24001,4321,main_camera_right,0.6668523467960767,0,none,rejected: not selected,0.0,0.0,0.0,0.0

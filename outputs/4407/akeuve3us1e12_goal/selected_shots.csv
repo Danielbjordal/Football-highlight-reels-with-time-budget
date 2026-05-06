@@ -1,0 +1,17 @@
+shot_id,start_ms,end_ms,duration_ms,label,confidence,keep,selected_role,reason,class_score,position_score,duration_score,anchor_score
+0,0,10560,10560,main_camera_left,0.9999846617380778,1,anchor,selected as anchor,0.0,0.0,0.0,0.0
+1,10560,13760,3200,close_up_player_or_field_referee,0.9997243285179138,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+2,13760,15200,1440,public,0.9896698792775472,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+3,15200,18240,3040,close_up_player_or_field_referee,0.6670740426828464,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+4,18240,21440,3200,public,0.7506335278352102,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+5,21440,28320,6880,close_up_player_or_field_referee,0.9855250914891561,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+6,28320,29920,1600,close_up_player_or_field_referee,0.9998549818992615,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+7,29920,33120,3200,public,0.5638593062758446,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+8,33120,37120,4000,close_up_side_staff,0.9994483590126038,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+9,37120,39360,2240,close_up_player_or_field_referee,0.9999756813049316,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+10,39360,41760,2400,public,0.9984358350435892,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+11,41760,48480,6720,main_camera_left,0.9999498526255289,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+12,48480,53600,5120,close_up_player_or_field_referee,0.9940464099248251,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+13,53600,57600,4000,close_up_player_or_field_referee,0.9475714564323425,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+14,57600,62080,4480,close_up_side_staff,0.9998936057090759,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+15,62080,95022,32942,main_camera_center,0.9984708229700724,0,none,rejected: not selected,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+shot_id,start_ms,end_ms,duration_ms,label,confidence,keep,selected_role,reason,class_score,position_score,duration_score,anchor_score
+0,0,15000,15000,start_phase,0.0,1,anchor,fixed intro clip,0.0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+shot_id,start_ms,end_ms,duration_ms,label,confidence,keep,selected_role,reason,class_score,position_score,duration_score,anchor_score
+0,0,20000,20000,end_of_game,0.0,1,anchor,full outro clip,0.0,0.0,0.0,0.0

@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local machine config
+config.yaml
+
+# SportsBD downloads this checkpoint automatically when needed.
+data/models/
+
+# Raw/downloaded video clips are not distributed in the thesis repo.
+data/games/**/*.mp4
+
+# Generated/intermediate videos. Keep CSV/JSON/TXT manifests in outputs.
+outputs/**/*.mp4
+outputs/**/*.mov
+outputs/**/*.avi
+outputs/**/_replay/
+outputs/**/_reaction/
+outputs/**/_concat/
+outputs/**/time_budget_compilation/
+
+# Benchmark/profiling logs generated locally.
+benchmark_results/
+outputs/profiling_run.csv

@@ -1,0 +1,5 @@
+shot_id,start_ms,end_ms,duration_ms,label,confidence,keep,selected_role,reason,class_score,position_score,duration_score,anchor_score
+0,0,16000,16000,main_camera_right,0.9992053508758545,1,anchor,selected as anchor,0.0,0.0,0.0,0.0
+1,16640,19040,2400,close_up_player_or_field_referee,0.9964074691136678,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+2,19040,22080,3040,close_up_player_or_field_referee,0.9996241529782613,0,none,rejected: not selected,0.0,0.0,0.0,0.0
+3,22080,25003,2923,main_camera_right,0.9627342422803243,0,none,rejected: not selected,0.0,0.0,0.0,0.0

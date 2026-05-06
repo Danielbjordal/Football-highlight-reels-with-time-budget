@@ -1,0 +1,29 @@
+paths:
+  raw_videos_dir: "data/raw_videos"
+  segments_json_dir: "data/segments_json"
+  output_dir: "outputs"
+
+defaults:
+  game_id: "4418"
+  weights_path: "weights/resnet50_forzasys_soccer_camera_zoom_v2.pth"
+  device: "auto"
+
+pipeline:
+  version: "0.1.0"
+
+sbd:
+  threshold: 0.7
+  fps: 25
+
+classifier:
+  batch_size: 16
+  device: "auto"
+
+selection:
+  min_shot_ms: 600
+  conf_threshold: 0.6
+
+tools:
+  ffmpeg_path: "C:/Users/marcu/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.1-full_build/bin/ffmpeg.exe"
+api_cache_dir: "data/api_cache"
+api_base: "https://api.highlights.eliteserien.no/eliteserien"

@@ -1,0 +1,116 @@
+[
+  {
+    "clip_index": 0,
+    "clip_path": "outputs\\4407\\aor2moxs115vp_start_phase\\selected_clip.mp4",
+    "event_id": "aor2moxs115vp",
+    "clip_type": "intro"
+  },
+  {
+    "clip_index": 1,
+    "clip_path": "outputs\\4407\\awe4cbw700y5i_shot\\selected_clip.mp4",
+    "event_id": "awe4cbw700y5i",
+    "clip_type": "shot_main"
+  },
+  {
+    "clip_index": 2,
+    "clip_path": "outputs\\4407\\ac90z7o8t15id_shot\\selected_clip.mp4",
+    "event_id": "ac90z7o8t15id",
+    "clip_type": "shot_main"
+  },
+  {
+    "clip_index": 3,
+    "clip_path": "outputs\\4407\\akeuve3us1e12_goal\\selected_clip.mp4",
+    "event_id": "akeuve3us1e12",
+    "clip_type": "goal_anchor"
+  },
+  {
+    "clip_index": 4,
+    "clip_path": "outputs\\4407\\akeuve3us1e12_goal\\reaction_clip.mp4",
+    "event_id": "akeuve3us1e12",
+    "clip_type": "goal_reaction"
+  },
+  {
+    "clip_index": 5,
+    "clip_path": "outputs\\4407\\akeuve3us1e12_goal\\replay_clip.mp4",
+    "event_id": "akeuve3us1e12",
+    "clip_type": "goal_replay"
+  },
+  {
+    "clip_index": 6,
+    "clip_path": "outputs\\4407\\apkjnq27z2tju_penalty\\selected_clip.mp4",
+    "event_id": "apkjnq27z2tju",
+    "clip_type": "penalty_main"
+  },
+  {
+    "clip_index": 7,
+    "clip_path": "outputs\\4407\\aj7ght3tbt3pg_goal\\selected_clip.mp4",
+    "event_id": "aj7ght3tbt3pg",
+    "clip_type": "goal_anchor"
+  },
+  {
+    "clip_index": 8,
+    "clip_path": "outputs\\4407\\aj7ght3tbt3pg_goal\\reaction_clip.mp4",
+    "event_id": "aj7ght3tbt3pg",
+    "clip_type": "goal_reaction"
+  },
+  {
+    "clip_index": 9,
+    "clip_path": "outputs\\4407\\aj7ght3tbt3pg_goal\\replay_clip.mp4",
+    "event_id": "aj7ght3tbt3pg",
+    "clip_type": "goal_replay"
+  },
+  {
+    "clip_index": 10,
+    "clip_path": "outputs\\4407\\a5mjuley3a1g0_free_kick\\selected_clip.mp4",
+    "event_id": "a5mjuley3a1g0",
+    "clip_type": "free_kick_main"
+  },
+  {
+    "clip_index": 11,
+    "clip_path": "outputs\\4407\\ausfbvxs902qi_goal\\selected_clip.mp4",
+    "event_id": "ausfbvxs902qi",
+    "clip_type": "goal_anchor"
+  },
+  {
+    "clip_index": 12,
+    "clip_path": "outputs\\4407\\ausfbvxs902qi_goal\\reaction_clip.mp4",
+    "event_id": "ausfbvxs902qi",
+    "clip_type": "goal_reaction"
+  },
+  {
+    "clip_index": 13,
+    "clip_path": "outputs\\4407\\ausfbvxs902qi_goal\\replay_clip.mp4",
+    "event_id": "ausfbvxs902qi",
+    "clip_type": "goal_replay"
+  },
+  {
+    "clip_index": 14,
+    "clip_path": "outputs\\4407\\a9sggghj0iccb_goal\\selected_clip.mp4",
+    "event_id": "a9sggghj0iccb",
+    "clip_type": "goal_anchor"
+  },
+  {
+    "clip_index": 15,
+    "clip_path": "outputs\\4407\\a9sggghj0iccb_goal\\reaction_clip.mp4",
+    "event_id": "a9sggghj0iccb",
+    "clip_type": "goal_reaction"
+  },
+  {
+    "clip_index": 16,
+    "clip_path": "outputs\\4407\\ae12752zja673_goal\\selected_clip.mp4",
+    "event_id": "ae12752zja673",
+    "clip_type": "goal_anchor"
+  },
+  {
+    "clip_index": 17,
+    "clip_path": "outputs\\4407\\ae12752zja673_goal\\reaction_clip.mp4",
+    "event_id": "ae12752zja673",
+    "clip_type": "goal_reaction"
+  },
+  {
+    "clip_index": 18,
+    "clip_path": "outputs\\4407\\ac0zx75yg0b7c_end_of_game\\selected_clip.mp4",
+    "event_id": "ac0zx75yg0b7c",
+    "clip_type": "outro"
+  }
+]
