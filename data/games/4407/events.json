@@ -40,7 +40,7 @@
           ],
           "to_timestamp": 637000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -50,7 +50,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a1xv2l1yr1vu5",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -66,7 +66,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -102,14 +102,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00622.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a1xv2l1yr1vu5",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -117,7 +117,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a1xv2l1yr1vu5",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -126,9 +126,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:30:11.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00622.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:612000:637000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -189,7 +189,7 @@
           ],
           "to_timestamp": 857000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -199,7 +199,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a7vnr18v0y5ht",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -215,7 +215,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -251,14 +251,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00842.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a7vnr18v0y5ht",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -266,7 +266,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a7vnr18v0y5ht",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -275,9 +275,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:33:51.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00842.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:832000:857000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -344,7 +344,7 @@
           ],
           "to_timestamp": 897000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -354,7 +354,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/amm20qv3hso5l",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -370,7 +370,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -406,14 +406,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00882.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "amm20qv3hso5l",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -421,7 +421,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/amm20qv3hso5l",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -430,9 +430,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:34:31.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00882.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:872000:897000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -503,7 +503,7 @@
           ],
           "to_timestamp": 957000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -513,7 +513,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ae0al4ocg583m",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -529,7 +529,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -565,14 +565,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00942.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ae0al4ocg583m",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -580,7 +580,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ae0al4ocg583m",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -589,9 +589,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:35:31.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/00942.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:932000:957000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -666,7 +666,7 @@
           ],
           "to_timestamp": 1162000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -676,7 +676,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/agwiwieph3264",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -692,7 +692,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -728,14 +728,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01147.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "agwiwieph3264",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -743,7 +743,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/agwiwieph3264",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -752,9 +752,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:38:56.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01147.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1137000:1162000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -820,7 +820,7 @@
           ],
           "to_timestamp": 1164000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -830,7 +830,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a74ulta3fomui",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -846,7 +846,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -882,14 +882,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01149.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a74ulta3fomui",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -897,7 +897,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a74ulta3fomui",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -906,9 +906,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:38:58.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01149.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1139000:1164000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -965,7 +965,7 @@
           ],
           "to_timestamp": 1207000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -975,7 +975,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aeatezmk9j99c",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -991,7 +991,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1027,14 +1027,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01192.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aeatezmk9j99c",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1042,7 +1042,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aeatezmk9j99c",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1051,9 +1051,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:39:41.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01192.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1182000:1207000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "0-0",
@@ -1124,7 +1124,7 @@
           ],
           "to_timestamp": 1260000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1134,7 +1134,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ah5sjrlid5okb",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1150,7 +1150,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1186,14 +1186,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01235.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ah5sjrlid5okb",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1201,7 +1201,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ah5sjrlid5okb",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1210,9 +1210,9 @@
       "rating": 4,
       "recording_timestamp": "2025-08-24T12:40:24.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01235.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1225000:1260000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "1-0",
@@ -1292,7 +1292,7 @@
           ],
           "to_timestamp": 1375000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1302,7 +1302,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aygzrkbenr0jw",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1318,7 +1318,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1354,14 +1354,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01360.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aygzrkbenr0jw",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1369,7 +1369,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aygzrkbenr0jw",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1378,9 +1378,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:42:30.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01360.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1350000:1375000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "1-0",
@@ -1455,7 +1455,7 @@
           ],
           "to_timestamp": 1381000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1465,7 +1465,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/auh3ia1ex9byh",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1481,7 +1481,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1517,14 +1517,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01366.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "auh3ia1ex9byh",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1532,7 +1532,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/auh3ia1ex9byh",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1541,9 +1541,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:42:35.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01366.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1356000:1381000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -1614,7 +1614,7 @@
           ],
           "to_timestamp": 1825000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1624,7 +1624,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/agmntjmnaeh4w",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1640,7 +1640,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1676,14 +1676,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01810.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "agmntjmnaeh4w",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1691,7 +1691,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/agmntjmnaeh4w",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1700,9 +1700,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:49:59.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01810.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1800000:1825000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -1773,7 +1773,7 @@
           ],
           "to_timestamp": 1960000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1783,7 +1783,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ayt2a08r4f03x",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1799,7 +1799,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1835,14 +1835,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01945.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ayt2a08r4f03x",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -1850,7 +1850,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ayt2a08r4f03x",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -1859,9 +1859,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:52:14.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01945.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1935000:1960000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -1936,7 +1936,7 @@
           ],
           "to_timestamp": 2011000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -1946,7 +1946,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a7b3z0t0ytkr8",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -1962,7 +1962,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -1998,14 +1998,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01996.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a7b3z0t0ytkr8",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2013,7 +2013,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a7b3z0t0ytkr8",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2022,9 +2022,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:53:05.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/01996.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:1986000:2011000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -2095,7 +2095,7 @@
           ],
           "to_timestamp": 2036000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2105,7 +2105,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ama4ofwkle2qq",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2121,7 +2121,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2157,14 +2157,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02021.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ama4ofwkle2qq",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2172,7 +2172,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ama4ofwkle2qq",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2181,9 +2181,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:53:30.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02021.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2011000:2036000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -2250,7 +2250,7 @@
           ],
           "to_timestamp": 2107000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2260,7 +2260,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/atrh84wq5equg",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2276,7 +2276,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2312,14 +2312,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02092.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "atrh84wq5equg",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2327,7 +2327,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/atrh84wq5equg",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2336,9 +2336,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:54:41.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02092.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2082000:2107000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -2405,7 +2405,7 @@
           ],
           "to_timestamp": 2232000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2415,7 +2415,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a6b952x44v6gj",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2431,7 +2431,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2467,14 +2467,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02217.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a6b952x44v6gj",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2482,7 +2482,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a6b952x44v6gj",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2491,9 +2491,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:56:46.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02217.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2207000:2232000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -2560,7 +2560,7 @@
           ],
           "to_timestamp": 2242000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2570,7 +2570,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aputfs4zzneh3",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2586,7 +2586,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2622,14 +2622,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02227.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aputfs4zzneh3",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2637,7 +2637,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aputfs4zzneh3",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2646,9 +2646,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T12:56:56.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02227.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2217000:2242000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "1-0",
@@ -2710,7 +2710,7 @@
           ],
           "to_timestamp": 2293000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2720,7 +2720,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/auen25tqmlvrf",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2736,7 +2736,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2772,14 +2772,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02278.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "auen25tqmlvrf",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2787,7 +2787,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/auen25tqmlvrf",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2796,9 +2796,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:57:47.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02278.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2268000:2293000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -2860,7 +2860,7 @@
           ],
           "to_timestamp": 2363000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -2870,7 +2870,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a4a6soz4vhesf",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -2886,7 +2886,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -2922,14 +2922,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02348.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a4a6soz4vhesf",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -2937,7 +2937,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a4a6soz4vhesf",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -2946,9 +2946,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T12:58:57.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02348.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2338000:2363000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -3019,7 +3019,7 @@
           ],
           "to_timestamp": 2512000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3029,7 +3029,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a6jxvp257338o",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3045,7 +3045,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3081,14 +3081,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02497.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a6jxvp257338o",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3096,7 +3096,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a6jxvp257338o",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3105,9 +3105,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:01:26.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02497.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2487000:2512000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -3173,7 +3173,7 @@
           ],
           "to_timestamp": 2534000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3183,7 +3183,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ansuy8x3e6vqf",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3199,7 +3199,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3235,14 +3235,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02519.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ansuy8x3e6vqf",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3250,7 +3250,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ansuy8x3e6vqf",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3259,9 +3259,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T13:01:49.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02519.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2509000:2534000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-0",
@@ -3332,7 +3332,7 @@
           ],
           "to_timestamp": 2618000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3342,7 +3342,7 @@
         "event",
         "team_v\u00e5lerenga"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ahmhq4ejlxoak",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3358,7 +3358,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3394,14 +3394,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02615.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ahmhq4ejlxoak",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3409,7 +3409,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ahmhq4ejlxoak",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3418,9 +3418,9 @@
       "rating": 4,
       "recording_timestamp": "2025-08-24T13:03:02.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02615.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2583000:2618000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 3
     },
     "score": "1-1",
@@ -3496,7 +3496,7 @@
           ],
           "to_timestamp": 2681000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3506,7 +3506,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aq2klph8wfp3h",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3522,7 +3522,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3558,14 +3558,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02666.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aq2klph8wfp3h",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3573,7 +3573,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aq2klph8wfp3h",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3582,9 +3582,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:04:15.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02666.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2656000:2681000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -3651,7 +3651,7 @@
           ],
           "to_timestamp": 2848000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3661,7 +3661,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ax7fd55nozwg",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3677,7 +3677,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3713,14 +3713,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02833.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ax7fd55nozwg",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3728,7 +3728,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ax7fd55nozwg",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3737,9 +3737,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:07:02.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02833.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2823000:2848000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -3801,7 +3801,7 @@
           ],
           "to_timestamp": 2892000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3811,7 +3811,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ahs3ksvdf9lnd",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3827,7 +3827,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -3863,14 +3863,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02877.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ahs3ksvdf9lnd",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -3878,7 +3878,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ahs3ksvdf9lnd",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -3887,9 +3887,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:07:46.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02877.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2867000:2892000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -3951,7 +3951,7 @@
           ],
           "to_timestamp": 2946000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -3961,7 +3961,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a9otv5mphvy0d",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -3977,7 +3977,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4013,14 +4013,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02931.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a9otv5mphvy0d",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4028,7 +4028,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a9otv5mphvy0d",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4037,9 +4037,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:08:40.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/02931.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:2921000:2946000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4110,7 +4110,7 @@
           ],
           "to_timestamp": 3271000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4120,7 +4120,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aa6din0fur6rh",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4136,7 +4136,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4172,14 +4172,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03256.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aa6din0fur6rh",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4187,7 +4187,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aa6din0fur6rh",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4196,9 +4196,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:14:05.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03256.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:3246000:3271000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4273,7 +4273,7 @@
           ],
           "to_timestamp": 3399000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4283,7 +4283,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a7ybufqv253hl",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4299,7 +4299,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4335,14 +4335,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03384.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a7ybufqv253hl",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4350,7 +4350,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a7ybufqv253hl",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4359,9 +4359,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:16:13.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03384.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:3374000:3399000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4426,7 +4426,7 @@
           ],
           "to_timestamp": 3404000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4436,7 +4436,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a85fxhodlyab2",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4452,7 +4452,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4488,14 +4488,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03389.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a85fxhodlyab2",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4503,7 +4503,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a85fxhodlyab2",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4512,9 +4512,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:16:18.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/03389.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:3379000:3404000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4569,7 +4569,7 @@
           ],
           "to_timestamp": 4332000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4579,7 +4579,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a9djui57gcg2c",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4595,7 +4595,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4631,14 +4631,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04317.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a9djui57gcg2c",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4646,7 +4646,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a9djui57gcg2c",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4655,9 +4655,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:31:46.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04317.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4307000:4332000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4718,7 +4718,7 @@
           ],
           "to_timestamp": 4449000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4728,7 +4728,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/amciyypz8qog6",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4744,7 +4744,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4780,14 +4780,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04434.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "amciyypz8qog6",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4795,7 +4795,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/amciyypz8qog6",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4804,9 +4804,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:33:43.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04434.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4424000:4449000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -4873,7 +4873,7 @@
           ],
           "to_timestamp": 4495000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -4883,7 +4883,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ag0207ydkedl5",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -4899,7 +4899,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -4935,14 +4935,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04480.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ag0207ydkedl5",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -4950,7 +4950,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ag0207ydkedl5",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -4959,9 +4959,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:34:29.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04480.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4470000:4495000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -5028,7 +5028,7 @@
           ],
           "to_timestamp": 4586000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5038,7 +5038,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/au6e1i45jar26",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5054,7 +5054,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5090,14 +5090,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04571.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "au6e1i45jar26",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5105,7 +5105,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/au6e1i45jar26",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5114,9 +5114,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:36:00.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04571.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4561000:4586000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -5183,7 +5183,7 @@
           ],
           "to_timestamp": 4590000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5193,7 +5193,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a1rvkevgdts2t",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5209,7 +5209,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5245,14 +5245,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04575.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a1rvkevgdts2t",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5260,7 +5260,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a1rvkevgdts2t",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5269,9 +5269,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T13:36:04.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04575.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4565000:4590000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "1-1",
@@ -5342,7 +5342,7 @@
           ],
           "to_timestamp": 4663000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5352,7 +5352,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/atbsgrf6zfjac",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5368,7 +5368,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5404,14 +5404,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04648.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "atbsgrf6zfjac",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5419,7 +5419,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/atbsgrf6zfjac",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5428,9 +5428,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:37:17.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04648.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4638000:4663000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -5501,7 +5501,7 @@
           ],
           "to_timestamp": 4855000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5511,7 +5511,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ab73gcquvhxqp",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5527,7 +5527,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5563,14 +5563,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04840.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ab73gcquvhxqp",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5578,7 +5578,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ab73gcquvhxqp",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5587,9 +5587,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:40:29.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04840.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4830000:4855000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -5656,7 +5656,7 @@
           ],
           "to_timestamp": 4941000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5666,7 +5666,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/am1sx98f0rg20",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5682,7 +5682,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5718,14 +5718,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04926.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "am1sx98f0rg20",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5733,7 +5733,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/am1sx98f0rg20",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5742,9 +5742,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:41:55.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04926.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4916000:4941000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "1-1",
@@ -5820,7 +5820,7 @@
           ],
           "to_timestamp": 5001000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5830,7 +5830,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/am3vft6nyhsee",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -5846,7 +5846,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -5882,14 +5882,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04976.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "am3vft6nyhsee",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -5897,7 +5897,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/am3vft6nyhsee",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -5906,9 +5906,9 @@
       "rating": 4,
       "recording_timestamp": "2025-08-24T13:42:45.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/04976.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:4966000:5001000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "2-1",
@@ -5988,7 +5988,7 @@
           ],
           "to_timestamp": 5153000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -5998,7 +5998,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a36s0t3xeq2pg",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6014,7 +6014,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6050,14 +6050,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05138.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a36s0t3xeq2pg",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6065,7 +6065,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a36s0t3xeq2pg",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6074,9 +6074,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:45:27.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05138.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5128000:5153000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6147,7 +6147,7 @@
           ],
           "to_timestamp": 5291000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6157,7 +6157,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/axe0mw5tbosa6",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6173,7 +6173,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6209,14 +6209,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05276.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "axe0mw5tbosa6",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6224,7 +6224,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/axe0mw5tbosa6",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6233,9 +6233,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:47:45.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05276.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5266000:5291000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6307,7 +6307,7 @@
           ],
           "to_timestamp": 5302000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6317,7 +6317,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aom3e32li1vz7",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6333,7 +6333,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6369,14 +6369,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05287.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aom3e32li1vz7",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6384,7 +6384,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aom3e32li1vz7",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6393,9 +6393,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:47:56.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05287.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5277000:5302000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6472,7 +6472,7 @@
           ],
           "to_timestamp": 5332000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6482,7 +6482,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a4qgli3eolryv",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6498,7 +6498,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6534,14 +6534,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05317.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a4qgli3eolryv",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6549,7 +6549,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a4qgli3eolryv",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6558,9 +6558,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:48:26.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05317.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5307000:5332000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6632,7 +6632,7 @@
           ],
           "to_timestamp": 5458000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6642,7 +6642,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a1tghtyenuvoz",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6658,7 +6658,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6694,14 +6694,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05443.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a1tghtyenuvoz",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6709,7 +6709,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a1tghtyenuvoz",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6718,9 +6718,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:50:32.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05443.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5433000:5458000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6787,7 +6787,7 @@
           ],
           "to_timestamp": 5556000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6797,7 +6797,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a5gm5tc1gyjuk",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6813,7 +6813,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -6849,14 +6849,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05541.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a5gm5tc1gyjuk",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -6864,7 +6864,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a5gm5tc1gyjuk",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -6873,9 +6873,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:52:10.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05541.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5531000:5556000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -6942,7 +6942,7 @@
           ],
           "to_timestamp": 5565000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -6952,7 +6952,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/atjqnvn96be8a",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -6968,7 +6968,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7004,14 +7004,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05550.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "atjqnvn96be8a",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7019,7 +7019,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/atjqnvn96be8a",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7028,9 +7028,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T13:52:19.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05550.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5540000:5565000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "2-1",
@@ -7101,7 +7101,7 @@
           ],
           "to_timestamp": 5630000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7111,7 +7111,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/auvvt99ud77ww",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7127,7 +7127,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7163,14 +7163,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05615.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "auvvt99ud77ww",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7178,7 +7178,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/auvvt99ud77ww",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7187,9 +7187,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:53:24.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05615.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5605000:5630000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-1",
@@ -7269,7 +7269,7 @@
           ],
           "to_timestamp": 5691000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7279,7 +7279,7 @@
         "clip",
         "team_v\u00e5lerenga"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/acfz00h2o0zbu",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7295,7 +7295,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7331,14 +7331,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05683.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "acfz00h2o0zbu",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7346,7 +7346,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/acfz00h2o0zbu",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7355,9 +7355,9 @@
       "rating": 4,
       "recording_timestamp": "2025-08-24T13:54:15.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05683.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5656000:5691000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 6
     },
     "score": "2-2",
@@ -7433,7 +7433,7 @@
           ],
           "to_timestamp": 5778000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7443,7 +7443,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ad5i0ulnpo67a",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7459,7 +7459,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7495,14 +7495,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05763.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ad5i0ulnpo67a",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7510,7 +7510,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ad5i0ulnpo67a",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7519,9 +7519,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:55:52.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05763.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5753000:5778000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-2",
@@ -7593,7 +7593,7 @@
           ],
           "to_timestamp": 5787000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7603,7 +7603,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/asc7hf3k93m97",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7619,7 +7619,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7655,14 +7655,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05772.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "asc7hf3k93m97",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7670,7 +7670,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/asc7hf3k93m97",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7679,9 +7679,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:56:01.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05772.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5762000:5787000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-2",
@@ -7762,7 +7762,7 @@
           ],
           "to_timestamp": 5870000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7772,7 +7772,7 @@
         "clip",
         "team_v\u00e5lerenga"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ag2sr4ts3sznj",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7788,7 +7788,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7824,14 +7824,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05857.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ag2sr4ts3sznj",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -7839,7 +7839,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ag2sr4ts3sznj",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -7848,9 +7848,9 @@
       "rating": 4,
       "recording_timestamp": "2025-08-24T13:57:14.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05857.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5835000:5870000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 3
     },
     "score": "2-3",
@@ -7931,7 +7931,7 @@
           ],
           "to_timestamp": 5909000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -7941,7 +7941,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/axf94cl2q6sln",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -7957,7 +7957,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -7993,14 +7993,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05894.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "axf94cl2q6sln",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8008,7 +8008,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/axf94cl2q6sln",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8017,9 +8017,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T13:58:03.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/05894.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:5884000:5909000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -8091,7 +8091,7 @@
           ],
           "to_timestamp": 6060000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8101,7 +8101,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/axvwvx2cen41z",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8117,7 +8117,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8153,14 +8153,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06045.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "axvwvx2cen41z",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8168,7 +8168,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/axvwvx2cen41z",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8177,9 +8177,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:00:34.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06045.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6035000:6060000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -8241,7 +8241,7 @@
           ],
           "to_timestamp": 6079000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8251,7 +8251,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aqjm73k2vfivm",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8267,7 +8267,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8303,14 +8303,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06064.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aqjm73k2vfivm",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8318,7 +8318,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aqjm73k2vfivm",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8327,9 +8327,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:00:53.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06064.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6054000:6079000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -8391,7 +8391,7 @@
           ],
           "to_timestamp": 6196000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8401,7 +8401,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a9ca0pcdfrjfs",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8417,7 +8417,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8453,14 +8453,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06181.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a9ca0pcdfrjfs",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8468,7 +8468,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a9ca0pcdfrjfs",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8477,9 +8477,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:02:50.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06181.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6171000:6196000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -8546,7 +8546,7 @@
           ],
           "to_timestamp": 6199000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8556,7 +8556,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/atz96wx5smtr6",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8572,7 +8572,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8608,14 +8608,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06184.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "atz96wx5smtr6",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8623,7 +8623,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/atz96wx5smtr6",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8632,9 +8632,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T14:02:53.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06184.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6174000:6199000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 2
     },
     "score": "2-3",
@@ -8705,7 +8705,7 @@
           ],
           "to_timestamp": 6432000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8715,7 +8715,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ah42we7lpsv91",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8731,7 +8731,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8767,14 +8767,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06417.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ah42we7lpsv91",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8782,7 +8782,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ah42we7lpsv91",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8791,9 +8791,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:06:46.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06417.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6407000:6432000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -8869,7 +8869,7 @@
           ],
           "to_timestamp": 6442000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -8879,7 +8879,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aias95m0yo3yl",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -8895,7 +8895,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -8931,14 +8931,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06427.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aias95m0yo3yl",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -8946,7 +8946,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aias95m0yo3yl",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -8955,9 +8955,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:06:56.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06427.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6417000:6442000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9034,7 +9034,7 @@
           ],
           "to_timestamp": 6449000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9044,7 +9044,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a4ks1n8u1di4h",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9060,7 +9060,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9096,14 +9096,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06434.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a4ks1n8u1di4h",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9111,7 +9111,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a4ks1n8u1di4h",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9120,9 +9120,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:07:03.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06434.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6424000:6449000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9199,7 +9199,7 @@
           ],
           "to_timestamp": 6472000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9209,7 +9209,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/am3v3ui9tdgy1",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9225,7 +9225,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9261,14 +9261,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06457.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "am3v3ui9tdgy1",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9276,7 +9276,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/am3v3ui9tdgy1",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9285,9 +9285,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:07:26.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06457.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6447000:6472000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9363,7 +9363,7 @@
           ],
           "to_timestamp": 6631000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9373,7 +9373,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/aix8qm8osbz76",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9389,7 +9389,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9425,14 +9425,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06616.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "aix8qm8osbz76",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9440,7 +9440,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/aix8qm8osbz76",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9449,9 +9449,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:10:05.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06616.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6606000:6631000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9517,7 +9517,7 @@
           ],
           "to_timestamp": 6633000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9525,7 +9525,7 @@
         "clip",
         "official"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/avfucfym11zwc",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9541,7 +9541,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9577,14 +9577,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06618.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "avfucfym11zwc",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9592,7 +9592,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/avfucfym11zwc",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9601,9 +9601,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:10:07.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06618.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6608000:6633000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9670,7 +9670,7 @@
           ],
           "to_timestamp": 6747000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9680,7 +9680,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/av8pps5v8zm5m",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9696,7 +9696,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9732,14 +9732,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06732.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "av8pps5v8zm5m",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9747,7 +9747,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/av8pps5v8zm5m",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9756,9 +9756,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:12:01.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06732.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6722000:6747000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9834,7 +9834,7 @@
           ],
           "to_timestamp": 6922000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -9844,7 +9844,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a3hsfrjihgq1j",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -9860,7 +9860,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -9896,14 +9896,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06907.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a3hsfrjihgq1j",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -9911,7 +9911,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a3hsfrjihgq1j",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -9920,9 +9920,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:14:56.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/06907.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:6897000:6922000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -9993,7 +9993,7 @@
           ],
           "to_timestamp": 7036000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10003,7 +10003,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ab09uhe0jx1wa",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10019,7 +10019,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10055,14 +10055,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07021.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ab09uhe0jx1wa",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10070,7 +10070,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ab09uhe0jx1wa",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10079,9 +10079,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:16:50.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07021.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7011000:7036000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -10148,7 +10148,7 @@
           ],
           "to_timestamp": 7048000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10158,7 +10158,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a8mcsmnay1y33",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10174,7 +10174,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10210,14 +10210,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07033.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a8mcsmnay1y33",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10225,7 +10225,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a8mcsmnay1y33",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10234,9 +10234,9 @@
       "rating": 3,
       "recording_timestamp": "2025-08-24T14:17:06.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07033.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7023000:7048000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 1
     },
     "score": "2-3",
@@ -10298,7 +10298,7 @@
           ],
           "to_timestamp": 7109000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10308,7 +10308,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/a4ihcft4wq75f",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10324,7 +10324,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10360,14 +10360,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07094.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "a4ihcft4wq75f",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10375,7 +10375,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/a4ihcft4wq75f",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10384,9 +10384,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:18:03.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07094.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7084000:7109000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -10443,7 +10443,7 @@
           ],
           "to_timestamp": 7129000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10453,7 +10453,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ar7st5u2pza0h",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10469,7 +10469,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10505,14 +10505,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07114.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ar7st5u2pza0h",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10520,7 +10520,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ar7st5u2pza0h",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10529,9 +10529,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:18:23.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07114.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7104000:7129000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -10593,7 +10593,7 @@
           ],
           "to_timestamp": 7279000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10603,7 +10603,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/at35avfcu5ze2",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10619,7 +10619,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10655,14 +10655,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07264.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "at35avfcu5ze2",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10670,7 +10670,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/at35avfcu5ze2",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10679,9 +10679,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:20:53.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07264.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7254000:7279000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",
@@ -10738,7 +10738,7 @@
           ],
           "to_timestamp": 7352000,
           "video_asset_id": 10574,
-          "video_asset_name": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574"
+          "video_asset_name": "URL_PLACEHOLDER"
         }
       ],
       "filters": [
@@ -10748,7 +10748,7 @@
         "team_haugesund",
         "clip"
       ],
-      "frontend_url": "https://highlights.eliteserien.no/playlist/ak7wxfcxiides",
+      "frontend_url": "URL_PLACEHOLDER",
       "game": {
         "attendance": 0,
         "date": "2025-08-24",
@@ -10764,7 +10764,7 @@
           "id": 9,
           "import_id": 202,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/forzify-backend-eliteserien/Haugesund-FKH_hoved_RGB.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "Haugesund",
           "short_name": "FKH"
         },
@@ -10800,14 +10800,14 @@
           "id": 1,
           "import_id": 169882,
           "import_source": "FIKS",
-          "logo_url": "https://cdn.forzasys.com/team-logos/tippeligaen/Valerenga-vif.png",
+          "logo_url": "URL_PLACEHOLDER",
           "name": "V\u00e5lerenga",
           "short_name": "VIF"
         },
         "visiting_team_goals": 3
       },
       "hd_thumbnail_override_url": null,
-      "hd_thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07337.jpg",
+      "hd_thumbnail_url": "URL_PLACEHOLDER",
       "id": "ak7wxfcxiides",
       "is_accessible": true,
       "is_available_publicly": true,
@@ -10815,7 +10815,7 @@
       "is_placeholder": false,
       "is_private": false,
       "league_id": 1,
-      "minified_frontend_url": "http://highlights.eliteserien.no/webview/playlist/ak7wxfcxiides",
+      "minified_frontend_url": "URL_PLACEHOLDER",
       "payment": null,
       "postrolls": [],
       "prerolls": [],
@@ -10824,9 +10824,9 @@
       "rating": 2,
       "recording_timestamp": "2025-08-24T14:22:06.000000Z",
       "thumbnail_override_url": null,
-      "thumbnail_url": "https://video-ntf.forzify.com/mediabank/thumb/eliteserien/10574/07337.jpg",
+      "thumbnail_url": "URL_PLACEHOLDER",
       "usergroups_view": [],
-      "video_url": "https://api.forzify.com/eliteserien/playlist.m3u8/10574:7327000:7352000/Manifest.m3u8",
+      "video_url": "URL_PLACEHOLDER",
       "view_count": 0
     },
     "score": "2-3",

@@ -148,7 +148,7 @@ def run_sbd(
 if __name__ == "__main__":
     from pipeline.tooling import ffprobe_from_ffmpeg
 
-    ffmpeg = "C:/Users/Daniel/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.0.1-full_build/bin/ffmpeg.exe"
+    ffmpeg = "ffmpeg"
     ffprobe = ffprobe_from_ffmpeg(ffmpeg)
 
     video = Path("data/games/segment.mp4")

@@ -13,6 +13,10 @@ Thumbs.db
 # Local machine config
 config.yaml
 
+# Local model checkpoints are not distributed with the repository.
+weights/*
+!weights/.gitkeep
+
 # SportsBD downloads this checkpoint automatically when needed.
 data/models/
 

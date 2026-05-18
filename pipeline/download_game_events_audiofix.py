@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import shutil
 import subprocess
 import tempfile
@@ -17,13 +18,22 @@ from urllib.parse import urljoin
 
 import requests
 
-FFMPEG_PATH = r"C:/Users/Daniel/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.0.1-full_build/bin/ffmpeg.exe"
+FFMPEG_PATH = "ffmpeg"
+API_BASE_ENV = "ELITESERIEN_API_BASE"
+API_BASE_PLACEHOLDER = "ELITESERIEN_API_BASE_PLACEHOLDER"
 GAME_IDS = [4407]
 FILTERED_TYPES = {"goal", "red_card", "penalty", "start_phase", "end_of_game", "shot", "free_kick"}
 
 
 def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
+
+
+def get_api_base() -> str:
+    api_base = os.environ.get(API_BASE_ENV, API_BASE_PLACEHOLDER).strip().rstrip("/")
+    if api_base == API_BASE_PLACEHOLDER:
+        raise ValueError(f"Set {API_BASE_ENV} to the Eliteserien API base URL before downloading events.")
+    return api_base
 
 
 def get_ffmpeg_cmd() -> str | None:
@@ -181,7 +191,7 @@ def download_clip_via_segments(hls_url: str, output_path: Path, ffmpeg_cmd: str)
 
 
 def download_events(game_id: int) -> List[Dict[str, Any]]:
-    url = f"https://api.highlights.eliteserien.no/eliteserien/game/{game_id}/events?count=999"
+    url = f"{get_api_base()}/game/{game_id}/events?count=999"
     resp = requests.get(url, timeout=20)
     resp.raise_for_status()
     payload = resp.json()

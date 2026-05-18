@@ -24,6 +24,6 @@ selection:
   conf_threshold: 0.6
 
 tools:
-  ffmpeg_path: "C:/Users/marcu/AppData/Local/Microsoft/WinGet/Packages/Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe/ffmpeg-8.1-full_build/bin/ffmpeg.exe"
+  ffmpeg_path: "ffmpeg"
 api_cache_dir: "data/api_cache"
-api_base: "https://api.highlights.eliteserien.no/eliteserien"
+api_base: "ELITESERIEN_API_BASE_PLACEHOLDER"

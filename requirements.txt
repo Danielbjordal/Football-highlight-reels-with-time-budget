@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch
+torchvision
+PyYAML
+requests
+sportsbd
+pandas
+matplotlib
+psutil
+nvidia-ml-py
