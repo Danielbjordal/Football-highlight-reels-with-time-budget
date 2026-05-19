@@ -97,7 +97,27 @@ On macOS/Linux:
 export ELITESERIEN_API_BASE="INSERT_ELITESERIEN_API_BASE_HERE"
 ```
 
-The endpoint value should include the base path used before `/game/<game_id>/events`.
+The endpoint value should include the base path used before `/game/<game_id>/events`. For example, if the supervisor provides:
+
+```text
+<PRIVATE_API_BASE>/game/4407/events?count=999
+```
+
+then set only the base part:
+
+```powershell
+$env:ELITESERIEN_API_BASE = "<PRIVATE_API_BASE>"
+```
+
+Do not include `/game/<game_id>/events?count=999` in the environment variable. The downloader adds that part automatically.
+
+You can also store the same base endpoint in your local `config.yaml` by replacing the placeholder:
+
+```yaml
+api_base: "<PRIVATE_API_BASE>"
+```
+
+Keep the real endpoint out of committed files. `config.yaml` is ignored by git, while `config.example.yaml` should keep the placeholder value.
 
 ## Downloading event clips
 
