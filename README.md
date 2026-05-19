@@ -18,7 +18,7 @@ The pipeline reuses existing outputs by default. Use the force flags described b
 
 The repository intentionally does not include private API endpoints or trained model weights.
 
-Contact my supervisor, `[INSERT SUPERVISOR NAME]`, for:
+Contact Mehdi Sarkoosh Housmand or Pål Halvorsen from Simulamet/forzasys for:
 
 - The Eliteserien API base endpoint.
 - The ResNet50 shot type classifier weights.
@@ -138,10 +138,11 @@ Common commands:
 ```bash
 python -m pipeline.run
 python -m pipeline.run --game-id 4407
+python -m pipeline.run --game-id 4407 --time_budget 120
+
 python -m pipeline.run --game-id 4407 --device cpu
 python -m pipeline.run --game-id 4407 --weights weights/resnet50_forzasys_soccer_camera_zoom_v2.pth
 python -m pipeline.run --game-id 4407 --force-selection --force-assembly
-python -m pipeline.run --game-id 4407 --time_budget 120
 python -m pipeline.run --game-id 4407 --debug-selection
 python -m pipeline.run --game-id 4407 --benchmark
 python -m pipeline.run --game-id 4407 --profile
@@ -149,6 +150,7 @@ python -m pipeline.run --game-id 4407 --profile
 
 Important options:
 
+- `--time_budget`: creates a final reel constrained to a target number of seconds.
 - `--config`: path to the YAML config file. Defaults to `config.yaml`.
 - `--game-id`: overrides `defaults.game_id`.
 - `--ffmpeg`: overrides `tools.ffmpeg_path`.
@@ -156,7 +158,6 @@ Important options:
 - `--device`: `auto`, `cpu`, or `cuda`.
 - `--force-selection`: regenerates selection CSVs and selected clips.
 - `--force-assembly`: regenerates assembled clips and final highlight video.
-- `--time_budget`: creates a final reel constrained to a target number of seconds.
 - `--debug-selection`: prints extra selection and assembly details.
 - `--benchmark`: records component runtime/resource measurements.
 - `--profile`: writes lightweight pipeline stage timings.
